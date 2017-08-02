@@ -1,2 +1,1 @@
-# learngit
-Practical of all basic git commands
+To see the difference between two commits  git diff commit#1..commit#2
